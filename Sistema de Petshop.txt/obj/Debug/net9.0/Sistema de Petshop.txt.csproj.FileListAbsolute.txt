@@ -1,0 +1,14 @@
+C:\Users\Aluno_Analytics.CENTRO40\Desktop\Sistema de Petshop.txt\obj\Debug\net9.0\Sistema de Petshop.txt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno_Analytics.CENTRO40\Desktop\Sistema de Petshop.txt\obj\Debug\net9.0\Sistema de Petshop.txt.AssemblyInfoInputs.cache
+C:\Users\Aluno_Analytics.CENTRO40\Desktop\Sistema de Petshop.txt\obj\Debug\net9.0\Sistema de Petshop.txt.AssemblyInfo.cs
+C:\Users\Aluno_Analytics.CENTRO40\Desktop\Sistema de Petshop.txt\obj\Debug\net9.0\Sistema de Petshop.txt.csproj.CoreCompileInputs.cache
+C:\Users\Aluno_Analytics.CENTRO40\Desktop\Sistema de Petshop.txt\bin\Debug\net9.0\Sistema de Petshop.txt.exe
+C:\Users\Aluno_Analytics.CENTRO40\Desktop\Sistema de Petshop.txt\bin\Debug\net9.0\Sistema de Petshop.txt.deps.json
+C:\Users\Aluno_Analytics.CENTRO40\Desktop\Sistema de Petshop.txt\bin\Debug\net9.0\Sistema de Petshop.txt.runtimeconfig.json
+C:\Users\Aluno_Analytics.CENTRO40\Desktop\Sistema de Petshop.txt\bin\Debug\net9.0\Sistema de Petshop.txt.dll
+C:\Users\Aluno_Analytics.CENTRO40\Desktop\Sistema de Petshop.txt\bin\Debug\net9.0\Sistema de Petshop.txt.pdb
+C:\Users\Aluno_Analytics.CENTRO40\Desktop\Sistema de Petshop.txt\obj\Debug\net9.0\Sistema de Petshop.txt.dll
+C:\Users\Aluno_Analytics.CENTRO40\Desktop\Sistema de Petshop.txt\obj\Debug\net9.0\refint\Sistema de Petshop.txt.dll
+C:\Users\Aluno_Analytics.CENTRO40\Desktop\Sistema de Petshop.txt\obj\Debug\net9.0\Sistema de Petshop.txt.pdb
+C:\Users\Aluno_Analytics.CENTRO40\Desktop\Sistema de Petshop.txt\obj\Debug\net9.0\Sistema de Petshop.txt.genruntimeconfig.cache
+C:\Users\Aluno_Analytics.CENTRO40\Desktop\Sistema de Petshop.txt\obj\Debug\net9.0\ref\Sistema de Petshop.txt.dll
